@@ -25,9 +25,17 @@ h2 {
   padding: 5px;
   margin: 0px;
   border: 1px solid black;
-  background: pink;
   text-align: center;
   clear: right;
+}
+#chicken {
+  background: pink;
+}
+#beef {
+  background: yellow;
+}
+#sushi {
+  background: green;
 }
 /**********Large Devices Only**********/
 
