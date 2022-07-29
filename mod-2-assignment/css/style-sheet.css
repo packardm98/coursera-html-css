@@ -19,7 +19,8 @@ div {
   position: relative;
   float: left;
 }
-h2 {
+#chicken {
+  background: pink;
   float: right;
   font-size: 20px;
   padding: 5px;
@@ -28,14 +29,25 @@ h2 {
   text-align: center;
   clear: right;
 }
-#chicken {
-  background: pink;
-}
 #beef {
   background: yellow;
+  float: right;
+  font-size: 20px;
+  padding: 5px;
+  margin: 0px;
+  border: 1px solid black;
+  text-align: center;
+  clear: right;
 }
 #sushi {
   background: green;
+  float: right;
+  font-size: 20px;
+  padding: 5px;
+  margin: 0px;
+  border: 1px solid black;
+  text-align: center;
+  clear: right;
 }
 /**********Large Devices Only**********/
 
