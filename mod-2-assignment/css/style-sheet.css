@@ -19,6 +19,10 @@ div {
   position: relative;
   float: left;
 }
+h2 {
+  float: right;
+  clear: right;
+}
 #chicken {
   background-color: pink;
   float: right;
@@ -27,10 +31,6 @@ div {
   margin: 0px;
   border: 1px solid black;
   text-align: center;
-  clear: right;
-}
-h2 {
-  float: right;
   clear: right;
 }
 #beef {
