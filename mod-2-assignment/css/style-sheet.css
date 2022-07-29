@@ -53,6 +53,9 @@ h2 {
   text-align: center;
   clear: right;
 }
+p {
+  clear: right;
+}
 /**********Large Devices Only**********/
 
 @media (min-width: 992px){
