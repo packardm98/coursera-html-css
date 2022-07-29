@@ -29,6 +29,10 @@ div {
   text-align: center;
   clear: right;
 }
+h2 {
+  float: right;
+  clear: right;
+}
 #beef {
   background-color: yellow;
   float: right;
