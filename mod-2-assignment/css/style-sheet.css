@@ -27,11 +27,7 @@ h2 {
   border: 1px solid black;
   background: pink;
   text-align: center;
-}
-p {
-  padding: 5px;
   clear: right;
-  overflow: auto;
 }
 /**********Large Devices Only**********/
 
