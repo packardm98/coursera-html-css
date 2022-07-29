@@ -28,6 +28,9 @@ h2 {
   background: pink;
   text-align: center;
 }
+p {
+  padding: 5px;
+}
 /**********Large Devices Only**********/
 
 @media (min-width: 992px){
