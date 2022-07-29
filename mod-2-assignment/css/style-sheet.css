@@ -20,7 +20,7 @@ div {
   float: left;
 }
 #chicken {
-  background: pink;
+  background-color: pink;
   float: right;
   font-size: 20px;
   padding: 5px;
@@ -30,7 +30,7 @@ div {
   clear: right;
 }
 #beef {
-  background: yellow;
+  background-color: yellow;
   float: right;
   font-size: 20px;
   padding: 5px;
@@ -40,7 +40,7 @@ div {
   clear: right;
 }
 #sushi {
-  background: green;
+  background-color: green;
   float: right;
   font-size: 20px;
   padding: 5px;
