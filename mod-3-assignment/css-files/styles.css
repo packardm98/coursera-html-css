@@ -1,1 +1,47 @@
+body {
+	font-size: 16px;
+	font-family: "Gill Sans", sans-serif;
+	background-color: dimgray;
+	color: white;
+}
 
+
+/***** HEADER *****/
+#header-nav {
+	border-radius: 0;
+	border: 0;
+	background-color: darkseagreen;
+}
+
+.navbar-brand h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 1.6em;
+	margin-top: 0;
+}
+.navbar-brand a:hover {
+	text-decoration: none;
+	text-shadow: 1px color lightgray;
+}
+#nav-list {
+	background-color: beige;
+	margin: 0px;
+}
+#nav-list a {
+	font-weight: bold;
+	color: black;
+}
+#nav-list a:hover {
+	color:  seagreen;
+}
+
+/***** Main Content ***/
+
+#chicken, #beef, #sushi {
+	padding: 15px;
+	background-color: lightslategray;
+	margin: 15px;
+}
+p a {
+	color: black;
+}
